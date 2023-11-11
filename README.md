@@ -18,8 +18,7 @@ Follow these steps to set up and run the project locally:
     ```bash
     git clone https://github.com/Kunal2703/django-aws-tier-3-GH-action.git
     ```
-
-2.  Navigate to the project directory: 
+2. Navigate to the project directory: 
   ```sh
   cd django-aws-tier-3-GH-action
   ```
@@ -39,5 +38,21 @@ Follow these steps to set up and run the project locally:
     python manage.py runserver
     ```
  > Visit http://127.0.0.1:8000/ in your web browser to ensure the project is running locally.
+
+## Deployment to AWS Elastic Beanstalk via GitHub Actions
+The project includes a GitHub Actions workflow (`/.github/workflows/main.yml`) for continuous integration and deployment.
+
+Follow these steps for AWS Elastic Beanstalk deployment:
+
+1. Set up your AWS Elastic Beanstalk environment.
+
+2. Configure your AWS Elastic Beanstalk environment variables in your GitHub repository settings.
+
+3. Push your changes to the main branch. GitHub Actions will automatically trigger the deployment workflow.
+
+
+## Application Link
+
+View the deployed application at [your-cname.com](http://django-env.eba-rtnac2xc.us-west-2.elasticbeanstalk.com/).
 
 
