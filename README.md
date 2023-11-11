@@ -1,7 +1,7 @@
 # Django-AWS-tier-3-GitHub-Action
 
 ## Overview
-This repository demonstrates the design and visualization of a 3-tier architecture for deploying a Django REST API on AWS using GitHub Actions.
+This repository demonstrates the design of a 3-tier architecture for deploying a Django REST API on AWS using GitHub Actions.
 
 ## Prerequisites
 - Python and Django installed locally.
