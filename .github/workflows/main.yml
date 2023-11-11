@@ -23,9 +23,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Deploy to AWS Elastic Beanstalk
-        uses: hmanzur/actions-aws-eb@v1.0.0
-        with:
-          command: 'deploy'
+        run: 'eb deploy django-env'
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
