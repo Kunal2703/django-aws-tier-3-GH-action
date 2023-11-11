@@ -7,7 +7,7 @@ This repository demonstrates the design and visualization of a 3-tier architectu
 - Python and Django installed locally.
 - An AWS account with necessary permissions.
 - Basic knowledge of GitHub Actions.
-- AWS Elastic Beanstalk CLI (`eb`) installed locally.
+- AWS Elastic Beanstalk CLI  (`eb`)  installed locally.
 
 
 ## Getting Started
@@ -53,6 +53,12 @@ Follow these steps for AWS Elastic Beanstalk deployment:
 
 ## Application Link
 
-View the deployed application at http://django-env.eba-rtnac2xc.us-west-2.elasticbeanstalk.com/.
+Visit http://django-env.eba-rtnac2xc.us-west-2.elasticbeanstalk.com/ to access the deployed Django REST API.
+
+## Django REST Framework Login Credentials
+Use the following credentials to log in to the Django REST Framework:
+
+- **Username:** admin
+- **Password:** password123
 
 
