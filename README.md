@@ -53,6 +53,6 @@ Follow these steps for AWS Elastic Beanstalk deployment:
 
 ## Application Link
 
-View the deployed application at (http://django-env.eba-rtnac2xc.us-west-2.elasticbeanstalk.com/).
+View the deployed application at http://django-env.eba-rtnac2xc.us-west-2.elasticbeanstalk.com/.
 
 
