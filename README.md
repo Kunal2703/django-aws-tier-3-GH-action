@@ -1,4 +1,4 @@
-# django-aws-tier-3-GH-action
+# Django-AWS-tier-3-GitHub-Action
 
 ## Overview
 This repository demonstrates the design and visualization of a 3-tier architecture for deploying a Django REST API on AWS using GitHub Actions.
