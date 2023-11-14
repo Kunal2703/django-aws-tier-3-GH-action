@@ -62,5 +62,5 @@ Use the following credentials to log in to the Django REST Framework:
 - **Password:** password123
 
 ## visualization of 3-tier architecture
-<img width="1026" alt="Screenshot 2023-11-14 at 10 11 20 PM" src="https://github.com/Kunal2703/django-aws-tier-3-GH-action/assets/78562069/3f81ac6d-4e9e-4b84-b742-ded7c697e7e3">
+<img width="1026" alt="Screenshot 2023-11-14 at 10 12 16 PM" src="https://github.com/Kunal2703/django-aws-tier-3-GH-action/assets/78562069/defa3d31-d8ed-4bdd-969d-08a575d3a657">
 
